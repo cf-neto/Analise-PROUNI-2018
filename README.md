@@ -30,3 +30,8 @@ Após instalar as dependências, execute o aplicativo com o comando:
 ```bash
 streamlit run app.py
 ```
+---
+
+#### Preview
+![{3EB6A14E-2225-41AA-8272-3D6034EE4508}](https://github.com/user-attachments/assets/cce06a96-b31c-4957-8084-22c077847a3c)
+
